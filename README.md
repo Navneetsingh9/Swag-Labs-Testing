@@ -48,7 +48,7 @@
 
     <li><strong><a href="Bug Report.xlsx">Swag Labs Bug Report.xlsx</a></strong> - Detailed bug report documenting 18 defects with severity, priority, steps to reproduce, and screenshots</li>
 
-    <li><strong>RTM.xlsx</strong> - Requirement Traceability Matrix mapping 18 requirements to identified bugs</li>
+    <li><strong><a href="RTM.xlsx">Requirement Traceability Matrix.xlsx</strong> - Requirement Traceability Matrix mapping 18 requirements to identified bugs</li>
 
 </ul>
 
@@ -331,6 +331,8 @@
     <li><strong><a href="Test Cases.xlsx">Test Cases Swag Labs.xlsx</a></strong> - 122 test cases across 4 modules with detailed steps and expected results</li>
 
     <li><strong><a href="Bug Report.xlsx">Swag Labs Bug Report.xlsx</a></strong> - 18 bugs with severity, priority, steps, screenshots, and test data</li>
+    
+    <li><strong><a href="RTM.xlsx">Requirement Traceability Matrix.xlsx</strong> - Requirement Traceability Matrix mapping 18 requirements to identified bugs</li>
 
 </ul>
 
